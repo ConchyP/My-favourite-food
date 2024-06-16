@@ -1,6 +1,6 @@
-## My-favourite-food
+# My-favourite-food
 
-# Requirements 
+## Requirements 
 
 1. The header must have a title
 2. The banner will display an image (WARNING: it must be adapted not distorted).
@@ -11,11 +11,13 @@
 
 The use of SASS is mandatory.
 
-# Figma
+## Figma
 
 https://www.figma.com/file/bSqTQZXqLmXeGM33KaGDE8/My-Favorite-Food?node-id=0%3A1
 
-# Github pages
+## Github pages
+
+https://github.com/ConchyP/My-favourite-food/deployments/github-pages
 
 
 <img src="/public/assets/image/Captura de pantalla 2024-06-16 202654.png">
