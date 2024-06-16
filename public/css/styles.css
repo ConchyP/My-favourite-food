@@ -46,8 +46,14 @@ body main #container1 .time .timecontainer {
   text-align: center;
   align-items: center;
 }
+body main #container1 .time .timecontainer .timepreparation {
+  display: flex;
+  text-align: center;
+  font-size: 3em;
+}
 body main #container1 .time img {
-  margin-left: 45%;
+  margin-left: 20%;
+  margin-right: 5%;
   display: grid;
   grid-row: 2/2;
   grid-column: 1/1;
